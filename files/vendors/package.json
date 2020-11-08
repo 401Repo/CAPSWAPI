@@ -1,0 +1,18 @@
+{
+  "name": "vendors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vendors.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "faker": "^5.1.0",
+    "socket.io-client": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
