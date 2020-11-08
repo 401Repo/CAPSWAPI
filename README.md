@@ -19,7 +19,7 @@ Just cloned my last repo to another one so as to not mess with past submition gr
 
 - api.js is just listening to the delivey while on socket.io-client and sending to the API in try catch blocks to allow the program to run.
 
-![uml](https://github.com/401Repo/CAPS-REFACTOR/blob/main/Image%20from%20iOS%20(6).jpg)
+![UML](https://github.com/401Repo/CAPSWAPI/blob/main/Image%20from%20iOS%20(7).jpg)
 
 ### Lab 18 update:
 
